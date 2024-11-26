@@ -32,11 +32,11 @@ nemsuAssist is a chatbot designed to guide students through various academic and
    ```
 3. Install dependencies:
    ```bash
-   [Insert your package manager commands, e.g., npm install]
+   npm install
    ```
 4. Start the application:
    ```bash
-   [Insert the command to run your project]
+  npx expo start
    ```
 
 ## Contribution
