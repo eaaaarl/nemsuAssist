@@ -36,7 +36,7 @@ nemsuAssist is a chatbot designed to guide students through various academic and
    ```
 4. Start the application:
    ```bash
-  npx expo start
+   npx expo start
    ```
 
 ## Contribution
