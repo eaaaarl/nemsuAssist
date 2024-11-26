@@ -1,3 +1,5 @@
+# This project is currently in development mode and is intended for academic purposes only.
+
 # nemsuAssist
 
 Project for **Application Development and Emerging Technologies**
